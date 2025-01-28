@@ -4,7 +4,6 @@ import { HomePage } from "./pages/HomePage";
 import { MovieList } from "./pages/MovieList";
 import { NoPage } from "./pages/NoPage";
 import { MovieDetail } from "./pages/MovieDetail";
-import "./App.css";
 
 function App() {
   return (
